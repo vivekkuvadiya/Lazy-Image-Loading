@@ -4,7 +4,7 @@
 - Created singleton pattern like glide
 - Created ImageRequest Builder to scale new feature
 
-## Video
+## Video:
 https://user-images.githubusercontent.com/65214194/229347207-f7936d72-deea-4f2e-a983-8a17feef5395.mp4
 
 
@@ -27,3 +27,13 @@ Step 2. Add the dependency
 	        implementation 'com.github.vivekkuvadiya:Lazy-Image-Loading:1.0.0'
 	}
 ```
+
+## How to Use:
+
+```
+	LazyImage.get(context)
+		.load(imageUrl) 
+		//.setPlaceHolder(drawable)
+		.into(imageView)
+```		
+		

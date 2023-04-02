@@ -4,6 +4,9 @@
 - Created singleton pattern like glide
 - Created ImageRequest Builder to scale new feature
 
+## Video
+https://user-images.githubusercontent.com/65214194/229347207-f7936d72-deea-4f2e-a983-8a17feef5395.mp4
+
 
 ## To get a Git project into your build:
 
